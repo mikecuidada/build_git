@@ -7,4 +7,4 @@ add some file.
 test git
 add one line
 
-creating a new branch is quick.
+creating a new branch is quick and simple.
