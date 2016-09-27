@@ -5,6 +5,6 @@ git tracks changes.
 add some file.
 
 test git
-add one line
+add one line on mac
 
 creating a new branch is quick & simple and simple.
